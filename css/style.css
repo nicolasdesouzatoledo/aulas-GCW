@@ -1,0 +1,23 @@
+body{ 
+    background-color:#fffff0 ;
+    background-repeat: repeat-y;
+    margin-top: 1.5%;
+    margin-bottom: 1.5%;
+ }
+
+ header,footer{
+    background-color: rgb(4,38,152);
+    padding: 2%;
+    color: rgba(255,255,255);
+ }
+
+ h1{ 
+    font-family: ;
+    font-size: 220%;
+    font-weight: bolder;
+    color:#f6f6f6 ;
+    text-align: ;
+    width: 100%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+ }
